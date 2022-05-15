@@ -1,5 +1,5 @@
 /*
- * Simple - 404 Page
+ * Simple - Info Page
  * Build Date: May 2022
  * Author: Melvin0776
  */
@@ -11,11 +11,11 @@ $(window).load(function() {
         MESSAGES = [];
         MESSAGES.push({
             delay: 0,
-            text: '> You’ve arrived at this page because you typed or'
+            text: '> You’ve arrived at this page because you typed'
         });
         MESSAGES.push({
             delay: 1200,
-            text: 'linked to “0776.ml”, Melvin0776’s official URL shortcut.'
+            text: 'or linked to “0776.ml”, Melvin0776’s official URL shortcut.'
         });
         MESSAGES.push({
             delay: 2200,
